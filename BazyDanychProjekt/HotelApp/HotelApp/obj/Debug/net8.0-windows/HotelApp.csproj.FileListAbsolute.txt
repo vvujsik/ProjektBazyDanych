@@ -1,0 +1,16 @@
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\bin\Debug\net8.0-windows\HotelApp.exe
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\bin\Debug\net8.0-windows\HotelApp.deps.json
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\bin\Debug\net8.0-windows\HotelApp.runtimeconfig.json
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\bin\Debug\net8.0-windows\HotelApp.dll
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\bin\Debug\net8.0-windows\HotelApp.pdb
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.Form1.resources
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.csproj.GenerateResource.cache
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.dll
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\refint\HotelApp.dll
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.pdb
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\HotelApp.genruntimeconfig.cache
+C:\Users\Łukasz\source\repos\HotelApp\HotelApp\obj\Debug\net8.0-windows\ref\HotelApp.dll

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\hotelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|c:\\users\\\u0142ukasz\\source\\repos\\hotelapp\\hotelapp\\hotelapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72BA6F42-9E7B-4DB8-988A-5CBC0AF65B94}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\hotelapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.cs",
+              "RelativeToolTip": "HotelApp\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:38:31.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.cs [Projekt]*",
+              "RelativeToolTip": "HotelApp\\Form1.cs [Projekt]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:21:13.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Form1.Designer.cs",
+              "RelativeToolTip": "HotelApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:20:07.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelApp.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\HotelApp.csproj",
+              "RelativeDocumentMoniker": "HotelApp\\HotelApp.csproj",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\HotelApp.csproj",
+              "RelativeToolTip": "HotelApp\\HotelApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T22:08:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Program.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Program.cs",
+              "RelativeToolTip": "HotelApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:07:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Booking.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\Booking.cs",
+              "RelativeToolTip": "HotelApp\\Booking.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:06:56.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "room.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\room.cs",
+              "RelativeDocumentMoniker": "HotelApp\\room.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\HotelApp\\HotelApp\\room.cs",
+              "RelativeToolTip": "HotelApp\\room.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:29:36.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
